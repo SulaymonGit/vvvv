@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box2{
+    width: 1540px;
+height: 1024px;
+background-image: url(./image\ 1.png);
+height: 100vh;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+.header_link{
+    font-family: "Roboto";
+}
+.a{
+    width: 243px;
+    height: 50px;
+     box-shadow: 0px 4px 4px 0px #DAD3FF;
+     background: #009FF5B5;
+    opacity: 71%;
+    
+}
+header{
+    padding-top: 46px;
+}
+
+.header__nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 40px;
+}
+.header__link{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Mulish";
+    color: #ffffff;
+    transition: 0.5s ease-in-out;
+}
+.box{
+   max-width: 1330px;
+   width: 100%;
+   margin: 0 auto; 
+}
+.best{
+    width: 604px;
+height: 103px;
+
+
+border-radius: 50px 50px 50px 50px;
+border: 11px  rgb(0, 0, 0);
+opacity: 0px;
+background: #FFC611;
+text-align: center;
+margin: 243px 393px 675px 443px;
+
+
+}
+.h2{
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42.19px;
+text-align: left;
+text-shadow: 0px 4px 4px  #0047FF;
+
+}
+.alttab{
+    width: 260px;
+    height: 340px;
+     box-shadow: 8px 7px 20px 0px #FFFFFF;
+  text-align: center;
+  gap: 123px;
+  text-shadow:  8px 7px 20px 0px #FFFFFF;
+  color: #DAD3FF;
+}
+.p{
+    background-color: black;
+    width: 360px;
+    height: 50px;
+}
+.shift{
+    display: flex;
+    justify-content: space-around;
+    width: 1240px;
+    height: 470px;
+}
+.header{
+    padding-top: 46px;
+}
+.container{
+    width: 100%;
+    width: 1500px;
+height: 62px;
+    background-color: rgb(174, 113, 32);
+    color: #ffffff;
+}
+.header__nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 40px;
+}
+.header__link{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Mulish";
+    color: #ffffff;
+    transition: 0.5s ease-in-out;
+}
